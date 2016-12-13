@@ -1,0 +1,12 @@
+[package]
+name = "flake"
+version = "0.1.0"
+authors = ["David Calavera <david.calavera@gmail.com>"]
+
+[dependencies]
+clap = "2.19.0"
+git2 = "0.6.1"
+git2-curl = "0.7.0"
+schedule_recv = "0.1.0"
+walkdir = "1"
+secret-service = "0.2.0"
